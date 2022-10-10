@@ -1,8 +1,8 @@
 # Translation_hackathon
 
 There are two different notebooks:
-1- Landmark classification and detection model
-2- Object detection model 
+1- Landmark classification and detection model (landmark(Tranlation_Hackathon))
+2- Object detection model (Object_detection_model_(Tranlation_Hackathon))
 
 
 
